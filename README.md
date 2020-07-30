@@ -131,3 +131,4 @@ This project is dual licensed:
 - The GOODDATA GOODDATA.UI LIBRARY END USER LICENSE AGREEMENT is used for GoodData customers.
 
 For more information, please see [LICENSE](https://github.com/gooddata/gooddata-react-components/blob/master/LICENSE)
+# react-deploy
